@@ -5,11 +5,12 @@ Bem-vindo ao Curso de HTML! Este curso foi projetado para iniciantes que desejam
 
 Clone o Repositório:
 
-git clone https://github.com/seu-usuario/curso-html.git
+$ git clone https://github.com/seu-usuario/curso-html.git
 
 Navegue para o Diretório do Curso:
 
-cd curso-html
+$ cd curso-html
+
 Abra os Arquivos no seu Editor de Texto Preferido.
 
 Explore os exemplos de código e experimente criar suas próprias páginas HTML.

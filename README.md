@@ -4,6 +4,7 @@ Bem-vindo ao Curso de HTML! Este curso foi projetado para iniciantes que desejam
 ## Conteúdo do Curso
 
 ### Módulo 1: Introdução ao HTML
+
 <h1> até <h6> - Títulos HTML
 
 Aprenda a estruturar o conteúdo da sua página com títulos de diferentes níveis.
@@ -27,6 +28,7 @@ Explore o uso do sublinhado para dar ênfase a certas palavras ou frases.
 Entenda como realçar a importância de certos trechos de texto.
 
 ### Módulo 2: Listas e Links
+
 <ol> - Listas Ordenadas
 
 Crie listas numeradas para organizar informações.
@@ -41,6 +43,7 @@ Aprenda como estruturar cada item dentro de uma lista.
 Explore a criação de links para navegação entre páginas.
 
 ### Módulo 3: Elementos de Estilo e Estrutura
+
 <hr> - Linha Horizontal
 
 Adicione linhas horizontais para dividir seções da sua página.

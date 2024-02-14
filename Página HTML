@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Minha Página HTML</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+
+        h1 {
+            color: #333;
+        }
+
+        p {
+            line-height: 1.5;
+        }
+
+        mark {
+            background-color: #ffcc00;
+        }
+
+        small {
+            font-size: 80%;
+        }
+
+        i {
+            font-style: italic;
+        }
+
+        u {
+            text-decoration: underline;
+        }
+
+        strong {
+            font-weight: bold;
+        }
+
+        ol, ul {
+            margin-bottom: 15px;
+        }
+
+        a {
+            color: #007bff;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        blockquote {
+            border-left: 2px solid #333;
+            margin: 10px 0;
+            padding-left: 10px;
+        }
+
+        sub {
+            vertical-align: sub;
+            font-size: 80%;
+        }
+
+        sup {
+            vertical-align: super;
+            font-size: 80%;
+        }
+
+        hr {
+            border: 1px solid #ccc;
+            margin: 20px 0;
+        }
+
+        abbr {
+            text-decoration: underline;
+            border-bottom: 1px dotted #007bff;
+            cursor: help;
+        }
+
+        del {
+            text-decoration: line-through;
+            color: #dc3545;
+        }
+
+        font {
+            color: #ff6600;
+        }
+    </style>
+</head>
+<body>
+    <h1>Título Principal (h1)</h1>
+    <p><mark>Texto destacado (mark)</mark> em um parágrafo (p) com diversas formatações, como <small>pequeno</small>, <i>itálico</i>, <u>sublinhado</u> e <strong>negrito</strong>.</p>
+
+    <ol>
+        <li>Item de lista ordenada (ol)</li>
+        <li>Outro item de lista ordenada (ol)</li>
+    </ol>
+
+    <ul>
+        <li>Item de lista não ordenada (ul)</li>
+        <li>Outro item de lista não ordenada (ul)</li>
+    </ul>
+
+    <a href="https://www.example.com">Link (a)</a>
+
+    <hr>
+
+    <p>Texto com <sub>subscrito</sub> e <sup>superescrito</sup>. Também inclui um <abbr title="Exemplo">abreviação</abbr>.</p>
+
+    <blockquote>
+        Este é um bloco de citação (blockquote).
+    </blockquote>
+
+    <del>Texto deletado (del).</del>
+
+    <p>Utilizando a tag <font color="#ff6600">font</font> para alterar a cor do texto.</p>
+</body>
+</html>
